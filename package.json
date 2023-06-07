@@ -1,0 +1,14 @@
+{
+  "name": "pratikum6",
+  "version": "1.0.0",
+  "description": "learn to creat API using express and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "author": "aidil2100016010@webmail.uad.ac.id",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
